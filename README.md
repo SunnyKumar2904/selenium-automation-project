@@ -5,7 +5,7 @@ The project automates end-to-end user journeys across three live demo web applic
 an e-commerce store and a shopping cart — using Selenium WebDriver with Java.
 
 > **Author:** Sunny Kumar — QA Tester (Manual + Automation)
-> sunnyrock2904@gmail.com · [LinkedIn](https://www.linkedin.com/in/sunny-choudhary-9ba6002a2) · [Manual testing documentation](https://github.com/SunnyKumar2904/manual-testing-documentation)
+> sunnyrock2904@gmail.com · [LinkedIn](https://www.linkedin.com/in/sunny-kumar-9ba6002a2) · [Manual testing documentation](https://github.com/SunnyKumar2904/manual-testing-documentation)
 
 ---
 
